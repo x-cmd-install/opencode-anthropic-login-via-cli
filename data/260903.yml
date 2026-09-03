@@ -1,11 +1,13 @@
 about:
-  description: OpenCode plugin for using Anthropic models with your Claude Pro/Max subscription
+  description:
+  |
+    OpenCode plugin for using Anthropic models with your Claude Pro/Max subscription
   license: NOASSERTION
   homepage: 
   head: d6ebb6e
   archived: false
   latestVersion: v1.6.1
-  collectedAt: 2026-09-03T05:12:47Z
+  collectedAt: 2026-09-03T22:37:52Z
 timeline:
   created: 2026-03-19
   lastCommit: 2026-04-22
@@ -20,7 +22,7 @@ popularity:
   issue: 11
 language:
   TypeScript: 93669
-totalLine: 93669
+totalBytes: 93669
 recent:
   last30d:
     since: 2026-08-04
