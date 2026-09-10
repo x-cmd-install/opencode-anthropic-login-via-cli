@@ -1,24 +1,63 @@
 # opencode-anthropic-login-via-cli
 
+[中文版本](./README.cn.md)
+
 OpenCode plugin for using Anthropic models with your Claude Pro/Max subscription
 
-- **Upstream**: <https://github.com/cemalturkcan/opencode-anthropic-login-via-cli>
-- **Homepage**: <>
-- **Latest release**: `v1.6.1` (2026-04-22)
-- **Last commit**: 2026-04-22
-- **License**: NOASSERTION
-- **Stars**: 131 · **Forks**: 20 · **Open issues**: 11 · **Contributors**: 10
+![opencode-anthropic-login-via-cli](https://repo.x-cmd.io/opencode-anthropic-login-via-cli.svg)
 
-## Installation
+## Install
 
 ```sh
 x install opencode-anthropic-login-via-cli
 ```
 
-See <https://x-cmd.com/install/opencode-anthropic-login-via-cli> for details.
+## Code insight
 
-## Data
+Total: **2,594** lines of code across **23** files in the top 5 languages.
 
-This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| TypeScript | 2,495 | 86 | 428 | 19 |
+| Json | 99 | 0 | 0 | 2 |
+| Markdown | 0 | 58 | 37 | 2 |
 
-_Last regenerated: 2026-09-09T20:40:37Z._
+## Source
+
+- **Upstream**: <https://github.com/cemalturkcan/opencode-anthropic-login-via-cli>
+- **License**: NOASSERTION
+
+## Release
+
+- **Latest**: `v1.6.1` (2026-04-22)
+- **Last commit**: 2026-04-22
+
+## Popularity
+
+- **Stars**: 132 · **Forks**: 20 · **Open issues**: 11 · **Contributors**: 10
+
+## Totals (cumulative)
+
+- **Releases**: 10 · **Merged PRs**: 12 · **Open PRs**: 1 · **Closed issues**: 9 · **Open issues**: 2 · **Commits**: 54
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-12 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-12 | 0 | 0 | 0 | 0 | 1 | 0 |
+| last180d | 2026-03-14 | 10 | 12 | 1 | 9 | 2 | 44 |
+| 360d | 2025-09-15 | 10 | 12 | 1 | 9 | 2 | 44 |
+| last720d | 2024-09-20 | 10 | 12 | 1 | 9 | 2 | 54 |
+
+## Improve this data
+
+Install metadata for opencode-anthropic-login-via-cli lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `opencode-anthropic-login-via-cli` is missing, out of date, or installs incorrectly, please open an issue or PR there:
+
+- **Open an issue**: <https://github.com/x-cmd/install/issues/new>
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/opencode-anthropic-login-via-cli.yml> (or whichever path the index uses)
+
+The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
+
+_Snapshot: `data/card/260910.yml` · 2026-09-10T23:46:34Z._
