@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.6.1"
   latestRelease: "v1.6.1"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T18:19:51Z
+  collectedAt: 2026-09-10T23:46:29Z
 timeline:
   created: 2026-03-19
   lastCommit: 2026-04-22
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-04-22
   lastPrerelease: 
 popularity:
-  star: 131
+  star: 132
   watcher: 3
   fork: 20
   release: 10
@@ -83,7 +83,7 @@ total:
   commit: 54
 ---
 path: /home/runner/.x-repo/github.com/cemalturkcan/opencode-anthropic-login-via-cli
-collectedAt: 2026-09-10T18:19:52Z
+collectedAt: 2026-09-10T23:46:30Z
 loc:
   TypeScript:
     code: 2495
