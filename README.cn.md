@@ -4,7 +4,7 @@
 
 OpenCode plugin for using Anthropic models with your Claude Pro/Max subscription
 
-![opencode-anthropic-login-via-cli](https://repo.x-cmd.io/opencode-anthropic-login-via-cli.svg?lang=zh)
+[![x-cmd/install — opencode-anthropic-login-via-cli Code Quality Monitoring Repo Card](https://repo.x-cmd.io/opencode-anthropic-login-via-cli.svg?lang=zh)](https://x-cmd.com/install/opencode-anthropic-login-via-cli)
 
 ## 安装
 
@@ -44,12 +44,12 @@ x install opencode-anthropic-login-via-cli
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-20 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-20 | 0 | 0 | 0 | 0 | 1 | 0 |
-| last180d | 2026-03-22 | 10 | 10 | 1 | 8 | 2 | 21 |
-| 360d | 2025-09-23 | 10 | 12 | 1 | 9 | 2 | 44 |
-| last720d | 2024-09-28 | 10 | 12 | 1 | 9 | 2 | 54 |
+| 30d | 2026-08-21 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-22 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-22 | 0 | 0 | 0 | 0 | 1 | 0 |
+| last180d | 2026-03-24 | 10 | 9 | 1 | 8 | 2 | 12 |
+| 360d | 2025-09-25 | 10 | 12 | 1 | 9 | 2 | 44 |
+| last720d | 2024-09-30 | 10 | 12 | 1 | 9 | 2 | 54 |
 
 ## 改进这些数据
 
@@ -60,4 +60,4 @@ opencode-anthropic-login-via-cli 的安装元数据由 [x-cmd/install](https://g
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260918.yml` · 2026-09-18T06:28:19Z._
+_数据快照: `data/card/260920.yml` · 2026-09-20T06:34:24Z._

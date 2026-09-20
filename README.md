@@ -4,7 +4,7 @@
 
 OpenCode plugin for using Anthropic models with your Claude Pro/Max subscription
 
-![opencode-anthropic-login-via-cli](https://repo.x-cmd.io/opencode-anthropic-login-via-cli.svg)
+[![x-cmd/install — opencode-anthropic-login-via-cli Code Quality Monitoring Repo Card](https://repo.x-cmd.io/opencode-anthropic-login-via-cli.svg)](https://x-cmd.com/install/opencode-anthropic-login-via-cli)
 
 ## Install
 
@@ -44,12 +44,12 @@ Total: **2,594** lines of code across **23** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-20 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-20 | 0 | 0 | 0 | 0 | 1 | 0 |
-| last180d | 2026-03-22 | 10 | 10 | 1 | 8 | 2 | 21 |
-| 360d | 2025-09-23 | 10 | 12 | 1 | 9 | 2 | 44 |
-| last720d | 2024-09-28 | 10 | 12 | 1 | 9 | 2 | 54 |
+| 30d | 2026-08-21 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-22 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-22 | 0 | 0 | 0 | 0 | 1 | 0 |
+| last180d | 2026-03-24 | 10 | 9 | 1 | 8 | 2 | 12 |
+| 360d | 2025-09-25 | 10 | 12 | 1 | 9 | 2 | 44 |
+| last720d | 2024-09-30 | 10 | 12 | 1 | 9 | 2 | 54 |
 
 ## Improve this data
 
@@ -60,4 +60,4 @@ Install metadata for opencode-anthropic-login-via-cli lives in the [x-cmd/instal
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T06:28:19Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T06:34:22Z._
