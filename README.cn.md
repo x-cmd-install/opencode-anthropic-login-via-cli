@@ -4,7 +4,7 @@
 
 OpenCode plugin for using Anthropic models with your Claude Pro/Max subscription
 
-[![x-cmd/install — opencode-anthropic-login-via-cli Code Quality Monitoring Repo Card](https://repo.x-cmd.io/opencode-anthropic-login-via-cli.svg?lang=zh)](https://x-cmd.com/install/opencode-anthropic-login-via-cli)
+[![x-cmd/install — opencode-anthropic-login-via-cli Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/opencode-anthropic-login-via-cli.svg?lang=zh)](https://x-cmd.com/install/opencode-anthropic-login-via-cli)
 
 ## 安装
 
@@ -34,22 +34,22 @@ x install opencode-anthropic-login-via-cli
 
 ## 流行度
 
-- **Star**: 134 · **Fork**: 20 · **开放 issue**: 11 · **贡献者**: 10
+- **Star**: 134 · **Fork**: 20 · **开放 issue**: 12 · **贡献者**: 10
 
 ## 累计统计
 
-- **发布数**: 10 · **已合并 PR**: 12 · **开放 PR**: 1 · **已关闭 issue**: 9 · **开放 issue**: 2 · **提交数**: 54
+- **发布数**: 10 · **已合并 PR**: 12 · **开放 PR**: 1 · **已关闭 issue**: 9 · **开放 issue**: 3 · **提交数**: 54
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-24 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-24 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-03-26 | 8 | 6 | 1 | 7 | 2 | 12 |
-| 360d | 2025-09-27 | 10 | 12 | 1 | 9 | 2 | 44 |
-| last720d | 2024-10-02 | 10 | 12 | 1 | 9 | 2 | 54 |
+| 30d | 2026-08-24 | 0 | 0 | 0 | 0 | 1 | 0 |
+| last60d | 2026-07-25 | 0 | 0 | 0 | 0 | 1 | 0 |
+| 90d | 2026-06-25 | 0 | 0 | 0 | 0 | 1 | 0 |
+| last180d | 2026-03-27 | 6 | 5 | 1 | 7 | 3 | 12 |
+| 360d | 2025-09-28 | 10 | 12 | 1 | 9 | 3 | 44 |
+| last720d | 2024-10-03 | 10 | 12 | 1 | 9 | 3 | 54 |
 
 ## 改进这些数据
 
@@ -60,4 +60,4 @@ opencode-anthropic-login-via-cli 的安装元数据由 [x-cmd/install](https://g
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T06:36:39Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T06:52:21Z._

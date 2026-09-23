@@ -4,7 +4,7 @@
 
 OpenCode plugin for using Anthropic models with your Claude Pro/Max subscription
 
-[![x-cmd/install — opencode-anthropic-login-via-cli Code Quality Monitoring Repo Card](https://repo.x-cmd.io/opencode-anthropic-login-via-cli.svg)](https://x-cmd.com/install/opencode-anthropic-login-via-cli)
+[![x-cmd/install — opencode-anthropic-login-via-cli Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/opencode-anthropic-login-via-cli.svg)](https://x-cmd.com/install/opencode-anthropic-login-via-cli)
 
 ## Install
 
@@ -34,22 +34,22 @@ Total: **2,594** lines of code across **23** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 134 · **Forks**: 20 · **Open issues**: 11 · **Contributors**: 10
+- **Stars**: 134 · **Forks**: 20 · **Open issues**: 12 · **Contributors**: 10
 
 ## Totals (cumulative)
 
-- **Releases**: 10 · **Merged PRs**: 12 · **Open PRs**: 1 · **Closed issues**: 9 · **Open issues**: 2 · **Commits**: 54
+- **Releases**: 10 · **Merged PRs**: 12 · **Open PRs**: 1 · **Closed issues**: 9 · **Open issues**: 3 · **Commits**: 54
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-24 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-24 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-03-26 | 8 | 6 | 1 | 7 | 2 | 12 |
-| 360d | 2025-09-27 | 10 | 12 | 1 | 9 | 2 | 44 |
-| last720d | 2024-10-02 | 10 | 12 | 1 | 9 | 2 | 54 |
+| 30d | 2026-08-24 | 0 | 0 | 0 | 0 | 1 | 0 |
+| last60d | 2026-07-25 | 0 | 0 | 0 | 0 | 1 | 0 |
+| 90d | 2026-06-25 | 0 | 0 | 0 | 0 | 1 | 0 |
+| last180d | 2026-03-27 | 6 | 5 | 1 | 7 | 3 | 12 |
+| 360d | 2025-09-28 | 10 | 12 | 1 | 9 | 3 | 44 |
+| last720d | 2024-10-03 | 10 | 12 | 1 | 9 | 3 | 54 |
 
 ## Improve this data
 
@@ -60,4 +60,4 @@ Install metadata for opencode-anthropic-login-via-cli lives in the [x-cmd/instal
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T06:36:39Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T06:52:21Z._
