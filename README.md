@@ -14,13 +14,14 @@ x install opencode-anthropic-login-via-cli
 
 ## Code insight
 
-Total: **2,594** lines of code across **23** files in the top 5 languages.
+Total: **7,341** lines of code across **80** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| TypeScript | 2,495 | 86 | 428 | 19 |
-| Json | 99 | 0 | 0 | 2 |
-| Markdown | 0 | 58 | 37 | 2 |
+| TypeScript | 7,224 | 0 | 1,184 | 71 |
+| Json | 112 | 0 | 0 | 3 |
+| Toml | 5 | 0 | 0 | 1 |
+| Markdown | 0 | 181 | 66 | 5 |
 
 ## Source
 
@@ -29,27 +30,27 @@ Total: **2,594** lines of code across **23** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v1.6.1` (2026-04-22)
-- **Last commit**: 2026-04-22
+- **Latest**: `v1.7.0` (2026-10-10)
+- **Last commit**: 2026-10-10
 
 ## Popularity
 
-- **Stars**: 135 · **Forks**: 20 · **Open issues**: 12 · **Contributors**: 10
+- **Stars**: 135 · **Forks**: 20 · **Open issues**: 12 · **Contributors**: 11
 
 ## Totals (cumulative)
 
-- **Releases**: 10 · **Merged PRs**: 12 · **Open PRs**: 2 · **Closed issues**: 9 · **Open issues**: 3 · **Commits**: 54
+- **Releases**: 11 · **Merged PRs**: 13 · **Open PRs**: 0 · **Closed issues**: 12 · **Open issues**: 0 · **Commits**: 68
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-10 | 0 | 0 | 1 | 0 | 1 | 0 |
-| last60d | 2026-08-11 | 0 | 0 | 1 | 0 | 1 | 0 |
-| 90d | 2026-07-12 | 0 | 0 | 1 | 0 | 1 | 0 |
-| last180d | 2026-04-13 | 1 | 1 | 1 | 1 | 2 | 7 |
-| 360d | 2025-10-15 | 10 | 12 | 2 | 9 | 3 | 44 |
-| last720d | 2024-10-20 | 10 | 12 | 2 | 9 | 3 | 54 |
+| 30d | 2026-09-11 | 1 | 1 | 0 | 1 | 0 | 13 |
+| last60d | 2026-08-12 | 1 | 1 | 0 | 1 | 0 | 13 |
+| 90d | 2026-07-13 | 1 | 1 | 0 | 1 | 0 | 13 |
+| last180d | 2026-04-14 | 2 | 1 | 0 | 2 | 0 | 17 |
+| 360d | 2025-10-16 | 11 | 13 | 0 | 12 | 0 | 57 |
+| last720d | 2024-10-21 | 11 | 13 | 0 | 12 | 0 | 68 |
 
 ## Improve this data
 
@@ -60,4 +61,4 @@ Install metadata for opencode-anthropic-login-via-cli lives in the [x-cmd/instal
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261010.yml` · 2026-10-10T06:58:54Z._
+_Snapshot: `data/card/261011.yml` · 2026-10-11T06:55:35Z._
