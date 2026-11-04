@@ -14,14 +14,14 @@ x install opencode-anthropic-login-via-cli
 
 ## Code insight
 
-Total: **7,341** lines of code across **80** files in the top 5 languages.
+Total: **7,397** lines of code across **82** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| TypeScript | 7,224 | 0 | 1,184 | 71 |
+| TypeScript | 7,280 | 0 | 1,196 | 73 |
 | Json | 112 | 0 | 0 | 3 |
 | Toml | 5 | 0 | 0 | 1 |
-| Markdown | 0 | 181 | 66 | 5 |
+| Markdown | 0 | 182 | 66 | 5 |
 
 ## Source
 
@@ -30,8 +30,8 @@ Total: **7,341** lines of code across **80** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v1.7.0` (2026-10-10)
-- **Last commit**: 2026-10-10
+- **Latest**: `v1.7.1` (2026-11-04)
+- **Last commit**: 2026-11-04
 
 ## Popularity
 
@@ -39,18 +39,18 @@ Total: **7,341** lines of code across **80** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 11 · **Merged PRs**: 13 · **Open PRs**: 0 · **Closed issues**: 12 · **Open issues**: 2 · **Commits**: 68
+- **Releases**: 12 · **Merged PRs**: 14 · **Open PRs**: 0 · **Closed issues**: 13 · **Open issues**: 1 · **Commits**: 70
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-04 | 1 | 1 | 0 | 0 | 2 | 13 |
-| last60d | 2026-09-04 | 1 | 1 | 0 | 1 | 2 | 13 |
-| 90d | 2026-08-05 | 1 | 1 | 0 | 1 | 2 | 13 |
-| last180d | 2026-05-07 | 1 | 1 | 0 | 2 | 2 | 13 |
-| 360d | 2025-11-08 | 11 | 13 | 0 | 12 | 2 | 57 |
-| last720d | 2024-11-13 | 11 | 13 | 0 | 12 | 2 | 68 |
+| 30d | 2026-10-05 | 2 | 2 | 0 | 1 | 1 | 14 |
+| last60d | 2026-09-05 | 2 | 2 | 0 | 2 | 1 | 14 |
+| 90d | 2026-08-06 | 2 | 2 | 0 | 2 | 1 | 14 |
+| last180d | 2026-05-08 | 2 | 2 | 0 | 3 | 1 | 14 |
+| 360d | 2025-11-09 | 12 | 14 | 0 | 13 | 1 | 58 |
+| last720d | 2024-11-14 | 12 | 14 | 0 | 13 | 1 | 70 |
 
 ## Improve this data
 
@@ -61,4 +61,4 @@ Install metadata for opencode-anthropic-login-via-cli lives in the [x-cmd/instal
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261103.yml` · 2026-11-03T08:29:36Z._
+_Snapshot: `data/card/261104.yml` · 2026-11-04T07:46:03Z._
