@@ -45,12 +45,12 @@ Total: **7,397** lines of code across **82** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-15 | 1 | 1 | 0 | 1 | 1 | 0 |
-| last60d | 2026-09-15 | 2 | 2 | 0 | 2 | 1 | 0 |
-| 90d | 2026-08-16 | 2 | 2 | 0 | 2 | 1 | 0 |
-| last180d | 2026-05-18 | 2 | 2 | 0 | 3 | 1 | 0 |
-| 360d | 2025-11-19 | 12 | 14 | 0 | 13 | 1 | 0 |
-| last720d | 2024-11-24 | 12 | 14 | 0 | 13 | 1 | 70 |
+| 30d | 2026-10-16 | 1 | 1 | 0 | 1 | 1 | 1 |
+| last60d | 2026-09-16 | 2 | 2 | 0 | 2 | 1 | 14 |
+| 90d | 2026-08-17 | 2 | 2 | 0 | 2 | 1 | 14 |
+| last180d | 2026-05-19 | 2 | 2 | 0 | 3 | 1 | 14 |
+| 360d | 2025-11-20 | 12 | 14 | 0 | 13 | 1 | 58 |
+| last720d | 2024-11-25 | 12 | 14 | 0 | 13 | 1 | 70 |
 
 ## Improve this data
 
@@ -61,4 +61,4 @@ Install metadata for opencode-anthropic-login-via-cli lives in the [x-cmd/instal
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261114.yml` · 2026-11-14T08:23:13Z._
+_Snapshot: `data/card/261115.yml` · 2026-11-15T08:19:15Z._
